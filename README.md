@@ -1,7 +1,8 @@
 # Hotel Booking Cancellation Analysis
 
-Analyzed hotel booking cancellations using Excel and Power Query with insights from guest behavior and reservation patterns.
-business understanding using Excel.
+This project is based on a Kaggle dataset related to hotel bookings. The dataset contains information on two types of hotels: City Hotel and Resort Hotel. The goal of this project is to analyze booking cancellation patterns and understand what factors contribute to cancellations. Using Excel and Power Query Editor, the dataset is explored, transformed, and visualized to draw insights that can help improve hotel management strategies.
+
+---
 
 ## 📌 Project Overview
 
